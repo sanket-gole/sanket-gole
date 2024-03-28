@@ -1,4 +1,4 @@
-//![logo](https://github.com/sanket-gole/sanket-gole/blob/main/Blue%20%26%20White%20Futuristic%20Gaming%20Channel%20Youtube%20Intro%20.png)
+#![logo](https://github.com/sanket-gole/sanket-gole/blob/main/Blue%20%26%20White%20Futuristic%20Gaming%20Channel%20Youtube%20Intro%20.png)
 <h1 align="center">Hi 👋, I'm Sanket Gole!</h1>
 <h3 align="center">I'm a passionate second-year Computer Science Engineering student with a strong interest in web development and full-stack development. 🚀</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
